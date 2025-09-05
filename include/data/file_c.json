@@ -1,0 +1,5 @@
+{
+    "dag_id":"file_c",
+    "schedule_interval":"@daily",
+    "input":"file_c.csv"
+}
